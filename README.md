@@ -1,5 +1,5 @@
-#An application to track and rate all of your watched movies.
+# An application to track and rate all of your watched movies.
 
-#scripts
+# scripts
 
-#npm start
+# npm start
